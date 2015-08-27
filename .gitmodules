@@ -1,0 +1,6 @@
+[submodule "tp-libvirt"]
+	path = tp-libvirt
+	url = https://github.com/qilongyun/tp-libvirt.git
+[submodule "tp-qemu"]
+	path = tp-qemu
+	url = https://github.com/qilongyun/tp-qemu.git
